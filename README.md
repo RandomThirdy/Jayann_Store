@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RandomThirdy/Jayann_Store/main/images/storenijayann.png" alt="Sari-Tech Banner" width="600"/>
 </p>
 
-<h1 align="center">Sari-Tech – Your E-commerce Solution</h1>
+<h1 align="center">Jayann's Store</h1>
 
 ## Description
 
