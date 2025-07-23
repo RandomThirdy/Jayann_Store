@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RandomThirdy/Jayann_Store/main/images/storenijayann.png" alt="Sari-Tech Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/RandomThirdy/Jayann_Store/main/images/storenijayann.png" alt="Sari-Tech Banner" width="300"/>
 </p>
 
 <h1 align="center">Jayann's Store</h1>
