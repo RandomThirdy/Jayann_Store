@@ -56,21 +56,21 @@ This GitHub repository houses the source code and assets for the **Sari-Tech** w
 
 ## 🚀 How to Use
 
-To get started with **Sari-Tech**, follow these steps:
+To get started with **Jayann's Store**, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RandomThirdy/Sari-Tech.git
+   git clone [https://github.com/RandomThirdy/Jayann_Store.git]
 2. **Navigate to the project folder::**
     ```bash
-    cd Sari-Tech
+    cd Jayann_Store
 3. Set up a local server using XAMPP/WAMP or any PHP server.
 4. Import the database using the provided **.sql** file.
 5. Run index.php in your browser to access the website.
 
 ## 🤝 Contributing
 
-We appreciate your interest in improving **Sari-Tech**! While we're not currently accepting external contributions, feel free to:
+We appreciate your interest in improving **Jayann's Store**! While we're not currently accepting external contributions, feel free to:
 
 - 🐛 Open issues for bugs or feature suggestions  
 - 💡 Submit feedback to improve user experience  
@@ -93,7 +93,7 @@ For questions, collaborations, or business inquiries, reach out via:
 
 ## 🔗 Links
 
-- 📂 [GitHub Repository](https://github.com/RandomThirdy/Sari-Tech)  
+- 📂 [GitHub Repository](https://github.com/RandomThirdy/Jayann_Store)  
 - 🚀 Live Demo (coming soon)  
 
 ---
